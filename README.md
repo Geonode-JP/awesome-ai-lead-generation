@@ -4,7 +4,7 @@ A curated list of the best AI-powered tools for Lead Generation, Social Listenin
 
 The goal of this repository is to document the **Modern Growth Stack**, moving away from static databases and towards intent-based, AI-driven customer acquisition.
 
-**Launch your SaaS, Startup, Product or AI tool on [LaunchOn.it](https://launchon.it). Get a week of full visibility and re-launch when you have new updates.**
+**Launch your SaaS, Startup, Product or AI tool on [LaunchOnIt](https://launchon.it). Get a week of full visibility and re-launch when you have new updates.**
 
 ## 📖 Contents
 
